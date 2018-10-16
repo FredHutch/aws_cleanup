@@ -10,6 +10,9 @@ name = "pypi"
 ipython = "*"
 notebook = "*"
 "boto3" = "*"
+nblint = "*"
+pylint = "*"
+black = "*"
 
 
 [dev-packages]
